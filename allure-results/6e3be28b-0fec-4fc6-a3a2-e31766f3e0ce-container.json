@@ -1,0 +1,1 @@
+{"uuid":"6e3be28b-0fec-4fc6-a3a2-e31766f3e0ce","name":"spotify.OAuth2.test.PlaylistTests","children":["63e8504d-4749-472b-b97d-fd15025707be"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1743182564868,"stop":1743182565935}],"afters":[],"start":1743182564805,"stop":1743182569757}

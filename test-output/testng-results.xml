@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-30T12:43:26 IST" name="Default suite" finished-at="2025-03-30T12:43:40 IST" duration-ms="13894">
+    <groups>
+    </groups>
+    <test started-at="2025-03-30T12:43:26 IST" name="Default test" finished-at="2025-03-30T12:43:40 IST" duration-ms="13894">
+      <class name="com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok@7749bf93]" started-at="2025-03-30T12:43:26 IST" name="beforeMethod" finished-at="2025-03-30T12:43:26 IST" duration-ms="35" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok.shouldBeAbletoupdatethePlaylist()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="shouldBeAbletoupdatethePlaylist()[pri:0, instance:com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok@7749bf93]" started-at="2025-03-30T12:43:26 IST" name="shouldBeAbletoupdatethePlaylist" finished-at="2025-03-30T12:43:37 IST" duration-ms="11122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldBeAbletoupdatethePlaylist -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok@7749bf93]" started-at="2025-03-30T12:43:38 IST" name="beforeMethod" finished-at="2025-03-30T12:43:38 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok.shouldbeAbleTocreatePlaylist()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="shouldbeAbleTocreatePlaylist()[pri:0, instance:com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok@7749bf93]" started-at="2025-03-30T12:43:38 IST" name="shouldbeAbleTocreatePlaylist" description="Create Playlist" finished-at="2025-03-30T12:43:38 IST" duration-ms="778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldbeAbleTocreatePlaylist -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok@7749bf93]" started-at="2025-03-30T12:43:38 IST" name="beforeMethod" finished-at="2025-03-30T12:43:38 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok.shouldbeabletoGetAPlaylist()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="shouldbeabletoGetAPlaylist()[pri:0, instance:com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok@7749bf93]" started-at="2025-03-30T12:43:38 IST" name="shouldbeabletoGetAPlaylist" finished-at="2025-03-30T12:43:39 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldbeabletoGetAPlaylist -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok@7749bf93]" started-at="2025-03-30T12:43:39 IST" name="beforeMethod" finished-at="2025-03-30T12:43:39 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok.shouldnotbeAbleTocreatePlaylist()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="shouldnotbeAbleTocreatePlaylist()[pri:0, instance:com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok@7749bf93]" started-at="2025-03-30T12:43:39 IST" name="shouldnotbeAbleTocreatePlaylist" finished-at="2025-03-30T12:43:39 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldnotbeAbleTocreatePlaylist -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok@7749bf93]" started-at="2025-03-30T12:43:39 IST" name="beforeMethod" finished-at="2025-03-30T12:43:39 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok.shouldnotbeAbleTocreatePlaylistwithexpiredtoken()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="shouldnotbeAbleTocreatePlaylistwithexpiredtoken()[pri:0, instance:com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok@7749bf93]" started-at="2025-03-30T12:43:39 IST" name="shouldnotbeAbleTocreatePlaylistwithexpiredtoken" finished-at="2025-03-30T12:43:40 IST" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldnotbeAbleTocreatePlaylistwithexpiredtoken -->
+      </class> <!-- com.spotify.OAuth2.test.PlaylistTestsReuasableMethodUpdatedLombok -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
