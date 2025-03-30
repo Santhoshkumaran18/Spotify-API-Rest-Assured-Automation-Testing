@@ -172,7 +172,4 @@ Spotify-API-Rest-Assured-Automation-Testing/
 
 This project is licensed under the **MIT License**. See `LICENSE` for details.
 
----
-
-This README provides a **structured, clean, and GitHub-friendly format** for your project! Let me know if you need any changes! 🚀🔥
 
